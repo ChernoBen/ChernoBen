@@ -4,8 +4,7 @@
 - 🌱 Currently learning python technics and technologies
 - 👯 Looking to Data career
 - 💬 Ask me about Pandas
-
-
+<br/>
 ### Languages and Tool:
 <img align="left" width="26px" alt="Pycharm" src="https://img.icons8.com/windows/32/000000/pycharm.png"/>
 <img align="left" width="26px" alt="Django" src="https://img.icons8.com/color/48/000000/django.png"/>
@@ -23,10 +22,11 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
 
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ChernoBen&amp;show_icons=true" alt="GitHub Stats"></p>
-
+<br/>
 <h1>GitHub Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&hide=html" /></p>
 [linkedin]: https://www.linkedin.com/in/benjamim-francisco-73a82613b/
