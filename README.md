@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - Brazil
 - 🌱 Currently learning python technics and technologies
