@@ -31,4 +31,4 @@
 <br/>
 <h1>GitHub Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&hide=html" /></p>
-<a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/"><button>[linkedin]</button></a>
+<button href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">[linkedin]</button>
