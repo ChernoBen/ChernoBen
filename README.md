@@ -29,8 +29,8 @@
 --
 
 <h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=ChernoBen&amp;show_icons=true" alt="GitHub Stats"></p>
+![Chernoben's GitHub stats](https://github-readme-stats.vercel.app/api?username=chernoben&show_icons=true&theme=radical)
 <br/>
 <h1>GitHub Languages</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&hide=html" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chernoben&layout=compact)](https://github.com/chernoben/github-readme-stats)
 
