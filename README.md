@@ -34,7 +34,7 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chernoben&show_icons=true&theme=radical"/> </p>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chernoben&layout=compact" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chernoben&layout=compact" />--->
 <br/>
 
 
