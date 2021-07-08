@@ -1,7 +1,3 @@
-[![Actions Status](https://github.com/ChernoBen/ChernoBen/workflows/wakatime-stats/badge.svg)](https://github.com/ChernoBen/ChernoBen/actions)
-[![Actions Status](https://github.com/ChernoBen/ChernoBen/workflows/update-gh-activity/badge.svg)](https://github.com/ChernoBen/ChernoBen/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ChernoBen.ChernoBen)
-
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">
@@ -59,8 +55,7 @@ Sunday       160 commits    ██░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Python                   10 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.95% 
-Go                       7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   30.44% 
-Julia                    3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+Go                       7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   30.44%  
 Other                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
 Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
 
@@ -89,4 +84,4 @@ Markdown                 30 mins             ░░░░░░░░░░░�
 
 
 -----
-Credits: [guilyx](https://github.com/guilyx)
+Credits: [ChernoBen](https://github.com/ChernoBen)
