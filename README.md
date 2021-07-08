@@ -1,40 +1,28 @@
-### Hello there 👋
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-- 🔭 Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - Brazil
-- 🌱 Currently learning python technics and technologies
-- 💬 Ask me about Pandas
+<p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/"><button>[linkedin]</button></a>
-<br/>
+<a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">
+  <img alt="ChernoBen's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
 
-### Languages and Tools:
+<a href="https://www.instagram.com/chernobenj/">
+  <img alt="ChernoBen's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/vpgpwovbo3g46kxut0vlxfk4x">
+  <img alt="ChernoBen's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+</p>
 
-<img align="left" width="26px" alt="Pycharm" src="https://img.icons8.com/windows/32/000000/pycharm.png"/>
-<img align="left" width="26px" alt="Django" src="https://img.icons8.com/color/48/000000/django.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" >
-<img <img align="left" width="26px" alt="anaconda" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" width="26px" alt="Vuejs" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" width="26px" alt="Nodejs" src="https://img.icons8.com/windows/32/000000/node-js.png"/>
-<img align="left" width="26px" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
-<img align="left" width="26px" alt="docker" src="https://img.icons8.com/dusk/64/000000/docker.png"/>                                                                    
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Postgres" width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br/>
-<br/>
---
+I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also work as a **Web Developer / Data Analyst**.
 
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+</p>
 
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chernoben&show_icons=true&theme=radical"/> </p>
-<br/>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chernoben&layout=compact" />--->
-<br/>
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ChernoBen&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
