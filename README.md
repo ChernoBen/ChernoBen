@@ -69,9 +69,8 @@ Sunday           ██░░░░░░░░░░░░░░░░░░░
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChernoBen&show_icons=true&hide_border=true">
 </p>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ChernoBen/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 -----
