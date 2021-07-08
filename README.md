@@ -54,20 +54,23 @@ Sunday           ██░░░░░░░░░░░░░░░░░░░
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
+<code><img height="50" src="https://img.icons8.com/windows/64/000000/nodejs.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/docker.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/travis-ci.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
+<code><img height="50" src="https://img.icons8.com/ios/50/000000/django.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChernoBen&show_icons=true&hide_border=true">
+</p>
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ChernoBen/github-readme-stats)
 </p>
 
 
