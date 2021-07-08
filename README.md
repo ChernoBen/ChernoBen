@@ -12,7 +12,7 @@
 </a>
 </p>
 
-I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also imporve skills as a **Web Developer / Data Analyst**.
+I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also improve skills as a **Web Developer / Data Analyst**.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
