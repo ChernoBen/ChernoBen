@@ -20,15 +20,6 @@
 I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also improve skills as a **Web Developer / Data Analyst**.
 <hr>
 <br>
-<!--START_SECTION:waka-->
-  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-</p>
-<br>
 <hr>
 **Languages and Tools:**  
 
