@@ -20,7 +20,6 @@
 I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also improve skills as a **Web Developer / Data Analyst**.
 <hr>
 <br>
-<hr>
 **Languages and Tools:**  
 
 <code><img height="50" src="https://img.icons8.com/windows/64/000000/nodejs.png"></code>
