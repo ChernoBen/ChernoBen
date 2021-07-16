@@ -17,7 +17,9 @@
   <img alt="ChernoBen's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
-I'm a Graduate Student in **Computer Science - UFMT** in Brazil. I also improve skills as a **Web Developer / Data Analyst**.
+<p>
+Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - Brazil .
+</p>
 <hr>
 <br>
 **Languages and Tools:**  
