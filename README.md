@@ -22,18 +22,20 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
 </p>
 <hr>
 <br>
- 
-<code><img height="50" src="https://img.icons8.com/windows/64/000000/nodejs.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/travis-ci.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://img.icons8.com/ios/50/000000/django.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<p align="center">
+  <code><img height="50" src="https://img.icons8.com/windows/64/000000/nodejs.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/docker.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/travis-ci.png"></code>
+  <code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+  <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+  <code><img height="50" src="https://img.icons8.com/ios/50/000000/django.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
+  <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
+  <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+</p>
+
 <br>
 <hr>
 <br>
