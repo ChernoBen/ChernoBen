@@ -1,7 +1,4 @@
-<br>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ChernoBen&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+
 <hr>
 <br>
 <p align="center">
@@ -9,7 +6,6 @@
 <a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">
   <img alt="ChernoBen's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-
 <a href="https://www.instagram.com/chernobenj/">
   <img alt="ChernoBen's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
