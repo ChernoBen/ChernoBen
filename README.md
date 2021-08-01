@@ -17,7 +17,7 @@
   <img alt="ChernoBen's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
-<p>
+<p align="center">
 Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - Brazil .
 </p>
 <hr>
@@ -35,14 +35,14 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
   <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
   <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </p>
-
-<br>
 <hr>
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChernoBen&show_icons=true&hide_border=true">
 </p>
 <br>
-<h1>GitHub Languages</h1>
+<p align="center">
+  <h1>GitHub Languages</h1>
+</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&hide=html" /></p>
 <br>
