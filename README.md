@@ -16,7 +16,6 @@
 Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - Brazil .
 </p>
 <hr>
-<br>
 <p align="center">
   <code><img height="50" src="https://img.icons8.com/windows/64/000000/nodejs.png"></code>
   <code><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
