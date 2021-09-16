@@ -1,5 +1,4 @@
 <hr>
-<br>
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">
