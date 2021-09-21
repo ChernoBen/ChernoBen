@@ -28,8 +28,8 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
   <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
   <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </p>
-<hr>
 <br>
+<hr>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChernoBen&show_icons=true&hide_border=true">
 </p>
@@ -38,5 +38,4 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
   <h1 align="center">GitHub Languages</h1>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoBen&layout=compact&hide=html" /></p>
-
 <br>
