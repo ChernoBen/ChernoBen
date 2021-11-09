@@ -3,7 +3,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/benjamim-francisco-73a82613b/">
   
-  <img alt="ChernoBen's LinkdeIN" width="35px" src="https://icons8.com/icon/mpH52RRtTK3v/linkedin"" />
+  <img alt="ChernoBen's LinkdeIN" width="35px" src="https://icons8.com/icon/mpH52RRtTK3v/linkedin" />
 </a>
 <a href="https://www.instagram.com/chernobenj/">
   <img alt="ChernoBen's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
