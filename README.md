@@ -26,8 +26,8 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
   <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
   <code><img height="50" src="https://img.icons8.com/ios/50/000000/django.png"></code>
   <code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-  <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-  <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+  <code><img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></code>
+  <code><img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></code>
 </p>
 <br>
 <hr>
