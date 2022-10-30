@@ -5,9 +5,6 @@
   
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
 </a>
-<a href="https://www.instagram.com/bfsneto/">
-  <img alt="ChernoBen's Instagram" width="35px" src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png"/>
-</a>
 <a href="https://open.spotify.com/user/vpgpwovbo3g46kxut0vlxfk4x">
   <img alt="ChernoBen's Spotify" width="35px" src="https://img.icons8.com/plasticine/100/000000/spotify--v2.png"/>
 </a>
