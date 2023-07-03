@@ -27,9 +27,6 @@ Majoring in Computer Science at Universidade Federal de Mato Grosso ( UFMT ) - B
 </p>
 <br>
 <hr>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChernoBen&show_icons=true&hide_border=true">
-</p>
 <br>
 <p align="center">
   <h1 align="center">GitHub Languages</h1>
